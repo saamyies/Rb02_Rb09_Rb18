@@ -2,10 +2,13 @@
 
 
 ## Project Proposal Template:
-cvbbbc
+
 ### Project Title or Name of the Application	:
-### Section			   	      :
+### Section			   	      : Rubidium
 ### Group Members			    :
+ALMADIN, Samantha I, - Rb02
+CRUZ, Jhea Eunice V. - Rb09
+NER, Arya Isabelle G. - Rb18
 ### Date (Proposal Date)  : Nov 5, 2026
 fdfhdfhfshsdhfhhtrthdfh
 ### Project Description:
