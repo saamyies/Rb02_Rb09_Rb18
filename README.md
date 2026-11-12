@@ -34,11 +34,12 @@ If the player loses, the dealer may give a dare to the player for them to do.
 ![Sample Diagram](https://static.visual-paradigm.com/web/images/tutorials/class-diagram-tutorial/01-class-diagram-example.png)
 
 ### Goals:
-
-Describe the long term outcomes of your project followed by a couple of objectives to meet the goals stated in this paragraph
-
-- Objective 1:
-- Objective 2:
-- Objective n:
+ 
+ The long-term outcome of our project is to give players a fun, replayable experience that adds a twist to standard Blackjack through dares. Using various Object-Oriented Programming concepts, our group will be to turn code on a screen into a working, interactive program that accurately simulates Blackjack game mechanics and rules.
+ 
+- Objective 1: Build and design the various classes (eg. Cards)
+- Objective 2: Implement the rules and mechanics of the game
+- Objective 3: Add the dare system; store possible dares the player may receive
+- Objective 4: Plan and design the interface
 
 [Click here for Rubrics and Sample projects](https://docs.google.com/document/d/1xKd1CqK6DcNWS2_oJPBNtY5n3I3Hqiw8FY3W295Iqfk/edit?usp=sharing)
