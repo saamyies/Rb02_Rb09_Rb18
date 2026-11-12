@@ -3,24 +3,17 @@
 
 ## Project Proposal Template:
 
-### Project Title or Name of the Application	:
+### Project Title or Name of the Application	: BlackJack
 ### Section			   	      : Rubidium
 ### Group Members			    :
 ALMADIN, Samantha I, - Rb02
 CRUZ, Jhea Eunice V. - Rb09
 NER, Arya Isabelle G. - Rb18
 ### Date (Proposal Date)  : Nov 5, 2026
-fdfhdfhfshsdhfhhtrthdfh
+
 ### Project Description:
 
-- A brief summary of the project description and the need for it.
-
-- Describes system components, features, and expected outputs clearly and logically. NOTE: Clearly described the elements(classes), their attributes and methods and how they will interact with each other.
-
-- Include the description as well of your target demographics as the user of your application. 
-
-- The description is then followed by the class diagram, depicting clearly what was described.
-
+n
 **Sample class Diagram from https://static.visual-paradigm.com/web/images/tutorials/class-diagram-tutorial/01-class-diagram-example.png:**
 
 ![Sample Diagram](https://static.visual-paradigm.com/web/images/tutorials/class-diagram-tutorial/01-class-diagram-example.png)
