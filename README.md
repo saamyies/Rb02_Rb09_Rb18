@@ -29,9 +29,7 @@ Once the player is done with their turns, the dealer reveals the hidden card. If
 
 If the player loses, the dealer may give a dare to the player for them to do.
 
-**Sample class Diagram from https://static.visual-paradigm.com/web/images/tutorials/class-diagram-tutorial/01-class-diagram-example.png:**
-
-![Sample Diagram](https://static.visual-paradigm.com/web/images/tutorials/class-diagram-tutorial/01-class-diagram-example.png)
+<img width="808" height="681" alt="image" src="https://github.com/user-attachments/assets/6f1b3694-4273-4985-9545-d33e01893c07" />
 
 ### Goals:
  
